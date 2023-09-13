@@ -3,9 +3,9 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 08.09.2023 14:29:10
+// Create Date: 07.09.2023 23:37:27
 // Design Name: 
-// Module Name: clock_divider
+// Module Name: Clock_divider
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -19,8 +19,7 @@
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
-
-module clock_divider(
+module Clock_divider(
     input clock_in,
     output reg clock_out
     );
